@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "nome": "Metal Gear Rising: Revengeance",
+    "desenvolvedor": "PlatinumGames",
+    "genero": [
+      "Ação, ",
+      "Hack and Slash"
+    ],
+    "plataformas": [
+      "PlayStation 3, ",
+      "Xbox 360, ",
+      "PC"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Devil May Cry V",
+    "desenvolvedor": "Capcom",
+    "genero": [
+      "Ação, ",
+      "Hack and Slash"
+    ],
+    "plataformas": [
+      "PlayStation 4, ",
+      "Xbox one, ",
+      "PC"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Minecraft",
+    "desenvolvedor": "Mojang Studios",
+    "genero": [
+      "Sandbox, ",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PC, ",
+      "PlayStation 4, ",
+      "Xbox one, ",
+      "Nintendo Switch, ",
+      "iOS, ",
+      "Android"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Red Dead Redemption 2",
+    "desenvolvedor": "Rockstar Studios",
+    "genero": [
+      "Ação, ",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PlayStation 4, ",
+      "Xbox one, ",
+      "PC, ",
+      "Google Stadia"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "God of War",
+    "desenvolvedor": "Santa Monica Studio",
+    "genero": [
+      "Ação, ",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Grand Theft Auto V",
+    "desenvolvedor": "Rockstar North",
+    "genero": [
+      "Ação, ",
+      "Mundo Aberto"
+    ],
+    "plataformas": [
+      "PlayStation 3, ",
+      "PlayStation 4, ",
+      "Xbox 360, ",
+      "Xbox one, ",
+      "PC"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Sea of Thieves",
+    "desenvolvedor": "Rare",
+    "genero": [
+      "Ação, ",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PC, ",
+      "Xbox one, "
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Lies of P",
+    "desenvolvedor": "Devolver Digital",
+    "genero": [
+      "Ação, ",
+      "RPG"
+    ],
+    "plataformas": [
+      "PC, ",
+      "PlayStation 4, ",
+      "Xbox one, "
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Batman: Arkham Asylum",
+    "desenvolvedor": "Rocksteady Studios",
+    "genero": [
+      "Ação, ",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PlayStation 3, ",
+      "Xbox 360, ",
+      "PC"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Spider-Man",
+    "desenvolvedor": "Insomniac Games",
+    "genero": [
+      "Ação, ",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PlayStation 4"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Fallout: New Vegas",
+    "desenvolvedor": "Obsidian Entertainment",
+    "genero": [
+      "RPG, ",
+      "Mundo Aberto"
+    ],
+    "plataformas": [
+      "PlayStation 3, ",
+      "Xbox 360, ",
+      "PC"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Apex Legends",
+    "desenvolvedor": "Respawn Entertainment",
+    "genero": [
+      "Battle Royale, ",
+      "Tiro"
+    ],
+    "plataformas": [
+      "PC, ",
+      "PlayStation 4, ",
+      "Xbox one, ",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Detroit: Become Human",
+    "desenvolvedor": "Quantic Dream",
+    "genero": [
+      "Ação, ",
+      "Aventura"
+    ],
+    "plataformas": [
+      "PlayStation 4, ",
+      "PC"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Bloons TD 6",
+    "desenvolvedor": "Ninja Kiwi",
+    "genero": [
+      "Estratégia, ",
+      "Tower Defense"
+    ],
+    "plataformas": [
+      "iOS, ",
+      "Android, ",
+      "PC"
+    ]
+  }
+]
